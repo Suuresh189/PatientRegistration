@@ -13,7 +13,7 @@
 *
 ****************************************************************
 **/
-package com.test.selenium.util;
+package com.HealthCare.Patient.Registration.TestData;
 
 import java.io.FileInputStream;
 import java.io.FileOutputStream;

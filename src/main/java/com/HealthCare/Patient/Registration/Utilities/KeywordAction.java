@@ -1,4 +1,4 @@
-package com.test.selenium.util;
+package com.HealthCare.Patient.Registration.Utilities;
 
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;

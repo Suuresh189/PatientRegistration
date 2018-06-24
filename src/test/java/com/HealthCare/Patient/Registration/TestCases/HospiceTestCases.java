@@ -1,4 +1,4 @@
-package com.test.selenium.testcases;
+package com.HealthCare.Patient.Registration.TestCases;
 
 import org.testng.SkipException;
 import org.testng.annotations.Test;

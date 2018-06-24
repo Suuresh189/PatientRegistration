@@ -1,4 +1,4 @@
-package com.test.selenium.util;
+package com.HealthCare.Patient.Registration.Utilities;
 
 public class TestCaseUtil {
 	public static boolean isExecutable(String testName, ExcelReader xls){
